@@ -1,16 +1,14 @@
 ---
-name: Tails Azimuth
+name: Muhammed Moussa
 avatar: /static/images/avatar.png
-occupation: Professor of Atmospheric Science
-company: Stanford University
-email: address@yoursite.com
-twitter: https://twitter.com/Twitter
-linkedin: https://www.linkedin.com
-github: https://github.com
+occupation: Frontend Engineer
+email: muhammedmoussa@hotmail.com
+github: 'http://github.com/muhammedMoussa'
+twitter: 'http://twitter.com/muhammedMoussa'
+linkedin: 'https://www.linkedin.com/in/muhammedmoussa'
 ---
 
-Tails Azimuth is a professor of atmospheric sciences at the Stanford AI Lab. His research interests includes complexity modelling of tailwinds, headwinds and crosswinds.
+Hello, I'm Muhammed. Frontend Engineer.
+I'm not a great programmer; I'm just a good programmer with great habits; clean, solid, and testable code.
 
-He leads the clean energy group which develops 3D air pollution-climate models, writes differential equation solvers, and manufactures titanium plated air ballons. In his free time he bakes raspberry pi.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+A thorough few years of expertise worked in various industries like Fintech, Saas, Booking, Event Planning, ERP, and Social platforms. with a passion for delivering high-quality software throw requirements to end-user. Regardless of the technology/framework limitation and the platform (Web, Mobile, or PWA).
