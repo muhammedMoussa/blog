@@ -3,7 +3,7 @@ const projectsData = [
     title: 'Paymob - Online Payment',
     description: `Accept payments online, in-store or from the comfort of your clients' homes. Boost your revenue as you offer the payment methods most relevant to your market. Maximize Sales Revenue. Suitable payment methods. Day Settlement Guarantees.`,
     imgSrc: '/static/images/paymob.jpg',
-    href: 'https://paymob.com/en/checkoutDemo',
+    href: 'https://paymob.com/en/online-payment',
   },
   {
     title: 'Mntrni',
